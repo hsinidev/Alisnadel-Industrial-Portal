@@ -1,0 +1,16 @@
+node_modules/
+vendor/
+.env
+*.log
+dist/
+build/
+.vs/
+vps_out/
+vps_out.zip
+vps_outside.tar.gz
+vps_outside.zip
+vps_public_html.tar.gz
+vps_public_html.zip
+vps_public_html/
+composer.phar
+*.phar
