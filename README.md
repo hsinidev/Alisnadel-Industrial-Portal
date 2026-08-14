@@ -1,16 +1,20 @@
 <div align="center">
-# 🚀 Alisnadel Industrial Portal
-### *Modern, High-Performance Universal Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Alisnadel%20Industrial%20Por&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Alisnadel Industrial Portal Header Banner" />
+
+  <h1>🚀 Alisnadel Industrial Portal</h1>
+  <p><em>Modern, High-Performance Universal Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev/Alisnadel-Industrial-Portal"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Alisnadel Industrial Portal** is a production-grade **Universal** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -23,61 +27,13 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `Universal`
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Alisnad Industrial Portal — Multilingual B2B Corporate Website
-
-
-> **Live URL**: [https://alisnadel.hsini.dev](https://alisnadel.hsini.dev)
-> **Repository**: [https://github.com/hsinidev/Alisnadel-Industrial-Portal](https://github.com/hsinidev/Alisnadel-Industrial-Portal)
-
----
-
-## Description
-
-Alisnad is the official multilingual (FR / EN / AR / ES / IT) corporate website for شركة الإسناد للصناعة والإصلاح (Alisnad Sinaa Wa Islah), a Moroccan marine & industrial repair company. Features a B2B lead capture system, multilingual project portfolio gallery, full CMS, and secure admin panel with optional 2FA.
-
----
-
-## Key Features
-
-- 5-language support (FR/EN/AR/ES/IT) with prefix routing (/{lang}/route) and per-language DB columns
-- B2B quote/contact lead capture system with CRM webhook integration (Zapier)
-- Industrial project portfolio gallery with multi-language descriptions and blueprint uploads
-- Full CMS: static pages, blog articles, and site settings (colors, contact info, domain)
-- Secure admin panel with rate-limited login (5 attempts/5 min) and optional email OTP 2FA
-- X.509 PDF digital signatures for verifiable document exports
-- Audit log trail capturing admin actions with IP and user agent tracking
-- Gmail SMTP via PHPMailer for automated B2B inquiry notifications
-
----
-
-## Tech Stack
-
-- **Vanilla PHP (Custom MVC, PSR-4)**
-- **MySQL / MariaDB**
-- **PHPMailer (Gmail SMTP)**
-- **Multi-Language Routing Engine**
-
----
-
-
-| Field | Info |
-|---|---|
-| **Name** | Hsini Mohamed |
-| **Website** | [https://hsini.dev](https://hsini.dev) |
-| **Email** | [contact@hsini.dev](mailto:contact@hsini.dev) |
-| **GitHub** | [https://github.com/hsinidev](https://github.com/hsinidev) |
-
----
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
